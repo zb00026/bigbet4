@@ -11,5 +11,3 @@
 2.0
 
 
-### telegram  https://t.me/codyny
-
